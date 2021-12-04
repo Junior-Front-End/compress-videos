@@ -8,7 +8,7 @@
 
 ## لینک های مفید
 
-[خواندن مقاله و تماشای ویدیوی مربوطه]()
+[خواندن مقاله و تماشای ویدیوی مربوطه](https://juniorfrontend.ir/%da%a9%d8%a7%d9%87%d8%b4-%d8%b3%d8%a7%db%8c%d8%b2-%d9%88%db%8c%d8%af%db%8c%d9%88%d8%8c-%d8%a8%d8%af%d9%88%d9%86-%d8%a7%d9%81%d8%aa-%da%a9%db%8c%d9%81%db%8c%d8%aa-%d8%a8%d8%a7-node-js-%d9%88-ffmpeg/)
 
 [اینستاگرام جونیور را فالو کنید!](https://instagram.com/juniorfrontend.ir/)
 
@@ -24,4 +24,5 @@
 کافیست از `npm start` استفاده شود.
 
 </div>
+
 
